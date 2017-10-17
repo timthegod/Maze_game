@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\廷禹\documents\visual studio 2015\projects\105機器人大變身專案檔\project2\main.cpp(19): warning C4838: 從 'double' 到 'float' 的轉換必須是縮小轉換
+c:\users\廷禹\documents\visual studio 2015\projects\105機器人大變身專案檔\project2\main.cpp(19): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\廷禹\documents\visual studio 2015\projects\105機器人大變身專案檔\project2\main.cpp(239): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Project2.vcxproj -> C:\Users\廷禹\Documents\Visual Studio 2015\Projects\105機器人大變身專案檔\Debug\openGL.exe
+  Project2.vcxproj -> C:\Users\廷禹\Documents\Visual Studio 2015\Projects\105機器人大變身專案檔\Debug\openGL.pdb (Full PDB)
